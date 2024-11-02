@@ -11,7 +11,7 @@ Download the file and extract the contents.
 
 Installing the requirements
 
-    pip install -r requirements.txt
+    pip install -r Requirements.txt
 
 Running the Simulation
 
